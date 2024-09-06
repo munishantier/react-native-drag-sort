@@ -1,0 +1,64 @@
+{
+  "name": "react-native-drag-sort",
+  "version": "2.4.4",
+  "description": "Drag and drop sort control for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochixuan/react-native-drag-sort.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "sort",
+    "react",
+    "react-component",
+    "ios",
+    "android",
+    "react-native",
+    "list"
+  ],
+  "author": "mochixuan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/mochixuan/react-native-drag-sort/issues"
+  },
+  "homepage": "https://github.com/mochixuan/react-native-drag-sort#readme",
+  "react-native": {
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "http": "@tradle/react-native-http",
+    "https": "https-browserify",
+    "os": "react-native-os",
+    "path": "path-browserify",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  },
+  "browser": {
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "http": "@tradle/react-native-http",
+    "https": "https-browserify",
+    "os": "react-native-os",
+    "path": "path-browserify",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "stream": "stream-browserify",
+    "vm": "vm-browserify"
+  }
+}
